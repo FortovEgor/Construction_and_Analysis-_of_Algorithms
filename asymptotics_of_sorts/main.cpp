@@ -4,6 +4,8 @@
 // 4) По максимуму
 // 5) -
 
+// компиляция: g++ main.cpp -std=c++17 -O2
+
 #include <iostream>
 #include <vector>
 #include <chrono>
