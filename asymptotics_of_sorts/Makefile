@@ -1,3 +1,4 @@
+.PHONY: all main run clean
 all: main
 
 main:
