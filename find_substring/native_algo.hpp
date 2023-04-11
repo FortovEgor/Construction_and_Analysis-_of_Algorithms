@@ -1,0 +1,1 @@
+uint64_t native_algo(const std::string& p, const std::string& t);

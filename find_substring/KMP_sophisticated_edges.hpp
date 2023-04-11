@@ -1,0 +1,1 @@
+uint64_t KMP_optimized(const std::string& p, const std::string& t);

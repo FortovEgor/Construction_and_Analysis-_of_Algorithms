@@ -1,0 +1,1 @@
+uint64_t KMP_standart(const std::string& p, const std::string& t);
